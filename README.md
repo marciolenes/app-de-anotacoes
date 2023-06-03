@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Anotações](https://alarme-em-js.netlify.app/)
+- [Anotações](https://anotacoes-importantes.netlify.app)
